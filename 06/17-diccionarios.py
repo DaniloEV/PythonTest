@@ -8,8 +8,8 @@ print(diccionario)
 diccionario2= {("valor1","valor2"):"juan"}
 print(diccionario2)
 
-
-#Creando diccionario con dict.fromKeys()
+# fromkeys va a ser siempre el primer parametro el iterable, el segundo el valor por defecto
+#Creando diccionario con dict.fromKeys(), crea los valores en NONE
 diccionarioKeys=  dict.fromkeys(["Nombre"," Apellido"],"N/A")
 print(diccionarioKeys)
 
