@@ -8,3 +8,6 @@ Python Test
 # Para crear tuplas vacias tuple(), no ()
 # Creando diccionario con dict.fromKeys(), crea los valores en NONE
 #   diccionarioKeys=  dict.fromkeys(["Nombre"," Apellido"],"N/A")
+# Las listas en python permite mandarle valores en negativo para buscar el valor y le da la vuelta a la lista
+# Keyboard arguments
+# filter repasar porque esta interesante
