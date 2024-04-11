@@ -14,3 +14,14 @@ Python Test
 # Un modulo se comporta como un método una clase por aparte
 # Se utiliza #IMPORTANTE!! para destacar
 # Para el readLines tiene el problema que archivos grandes consume mucho
+
+# Instalar PANDAS 
+#  Para instalarlo se ocupa PIP (es el manejador de paquetes de Python)
+#   Para saber si está instalando en cmd py -m pip
+# comando: py -m pip install pandas
+
+# Instalar matplotlib
+# py -m pip install pandas
+
+# Instalar seaborn
+# py -m pip install seaborn

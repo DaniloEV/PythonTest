@@ -1,0 +1,17 @@
+Los Datos Son:
+Nombre: JUAN
+ ---- Apellido Dalto
+ ---------- 
+ Nombre: PEDRO
+ ---- Apellido Rodriguez
+ ---------- 
+ Nombre: PEDRO2
+ ---- Apellido Rodriguez2
+ ---------- 
+ Nombre: JUAN2
+ ---- Apellido Rodriguez3
+ ---------- 
+ Nombre: JUAN3
+ ---- Apellido Rodriguez4
+ ---------- 
+ 
