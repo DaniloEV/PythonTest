@@ -14,7 +14,10 @@ exponente = 12 ** 2
 
 
 #division baja ( // ) entiendo que se utiliza para dividir hacia abajo y devuelve entero
-division_baja=12 // 5
+division_baja= 12// 5
+
+# redondeo hacía donde considere si es mayor a .5
+redondeo = round(division_baja)
 
 #resto o dividendo o sobrante
 resto= 12 % 5
@@ -22,3 +25,4 @@ resto= 12 % 5
 tipo_dato=type(resto) #devuelve el tipo de dato
 print(resto)
 print(division_baja)
+print(isinstance(division_baja, int))

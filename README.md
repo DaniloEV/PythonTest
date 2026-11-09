@@ -1,7 +1,7 @@
 # PythonTest
 Python Test
 
-
+# Video 1
 ## NOTAS IMPORTANTE
 # Para crear diccionarios vacios dict() , no {}
 # Para crear listas vacias list(), no []
@@ -25,3 +25,6 @@ Python Test
 
 # Instalar seaborn
 # py -m pip install seaborn
+
+# Video 2
+# https://www.youtube.com/watch?v=H2EJuAcrZYU

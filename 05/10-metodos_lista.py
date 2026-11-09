@@ -40,7 +40,7 @@ lista2.clear()
 print("Limpiado todo" + str(lista2))
 
 
-#Sort ordena una lsita de forma ascendente a descendente
+#Sort ordena una lista de forma ascendente a descendente
 listaNumeral= list([5,4,1,True,0,-1,1.2,2.4]) #IMPORTANTE TRUE tendrá mayor valor que 2 y será menor a cualquier valor antes de 1.9999...
 listaNumeral.sort()
 print("Sort" + str(listaNumeral))
